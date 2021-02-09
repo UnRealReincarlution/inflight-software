@@ -1,0 +1,17 @@
+@import url("https://use.typekit.net/oem7iwc.css");
+html,
+body {
+  padding: 0;
+  margin: 0;
+  
+  font-family: quasimoda, sans-serif
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
